@@ -31,14 +31,11 @@
       "featured": true
     },
     {
-      "id": 3,
-      "name": "Jeffrey",
-      "userID": 3,
-      "image": "http://http.cat/418",
-      "title": "I'm a little Teapot",
+      "title": "I'm a little Teapot and Proud of it",
       "subTitle": "The Song we all Know and Love",
+      "image": "http://http.cat/418",
       "text": "I'm a little teapot\nshort and stout\nhere is my handle\nhere is my spout\n\nWhen I get all steamed up\nhear me shout\ntip me over\nand pour me out'",
-      "featured": true
+      "id": 3
     },
     {
       "id": 4,
@@ -98,14 +95,11 @@
       "featured": false
     },
     {
-      "id": 10,
-      "name": "David Fischer",
-      "userID": 9,
-      "image": "http://soolnua.com/wp-content/themes/soolella/images/ice17/icecream-purple-pink.svg",
-      "title": "Getting a new job",
+      "title": "Getting a new job (hopefully)",
       "subTitle": "Ben and Jerry's Ice Cream Flavor Namer",
+      "image": "http://soolnua.com/wp-content/themes/soolella/images/ice17/icecream-purple-pink.svg",
       "text": "When looking for a new job the most important thing is finding a job that is fulfilling.  If you really want a job that bring out your creative side I recommend Ben and Jerry's.  You can taste all the ice cream before it hits the market and you get to determine how the market and people will see this for the first time!  \"SQL Caramel Tracks\", and \"Ever Flowing Gooey Coding\" are just a few examples of our recent flavors thanks to me!  Good luck following your dreams!",
-      "featured": false
+      "id": 10
     },
     {
       "id": 11,
